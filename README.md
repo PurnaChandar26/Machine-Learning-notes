@@ -78,10 +78,6 @@ Navigate to the [Artificial Neural Networks (ANNs)](./Artificial%20Neural%20Netw
 
 3\. **Contributions**: If you have any corrections, suggestions, or additional content that you'd like to contribute, please submit a pull request. We welcome collaboration to make these notes even more informative and helpful.
 
-## License
 
-This repository is open-source and available under the [MIT License](./LICENSE). You are encouraged to use, modify, and share this content for educational and non-commercial purposes.
-
-## Contact
 
 
