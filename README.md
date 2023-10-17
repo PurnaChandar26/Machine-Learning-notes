@@ -84,6 +84,4 @@ This repository is open-source and available under the [MIT License](./LICENSE).
 
 ## Contact
 
-If you have questions, suggestions, or want to get in touch, please feel free to [open an issue](https://github.com/YourUsername/Machine-Learning-Notes/issues) or reach out via email at [your.email@example.com](mailto:your.email@example.com).
 
-Happy learning and exploring the world of Machine Learning! 🚀🤖
