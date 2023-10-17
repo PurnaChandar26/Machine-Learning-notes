@@ -68,11 +68,12 @@ Artificial Neural Networks (ANNs) are the building blocks of deep learning. In t
 
 - And much more!
 
-Navigate to the [Artificial Neural Networks (ANNs)](./Artificial%20Neural%20Networks%20(ANNs)) section to strengthen your understanding of this core component of deep learning.
+Navigate to the Artificial Neural Networks (ANNs) section to strengthen your understanding of this core component of deep learning.
 
 
 
-**Contributions**: If you have any corrections, suggestions, or additional content that you'd like to contribute, please submit a pull request. We welcome collaboration to make these notes even more informative and helpful.
+## Contributions: 
+If you have any corrections, suggestions, or additional content that you'd like to contribute, please submit a pull request. We welcome collaboration to make these notes even more informative and helpful.
 
 
 
