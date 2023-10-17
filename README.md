@@ -70,11 +70,7 @@ Artificial Neural Networks (ANNs) are the building blocks of deep learning. In t
 
 Navigate to the [Artificial Neural Networks (ANNs)](./Artificial%20Neural%20Networks%20(ANNs)) section to strengthen your understanding of this core component of deep learning.
 
-## How to Use This Repository
 
-1\. **Navigation**: Use the table of contents to find the topic you are interested in, and click on the corresponding link to access detailed notes and resources.
-
-2\. **Code Examples**: When relevant, you'll find code examples, Jupyter notebooks, and practical implementations in the respective sections. Feel free to experiment with and modify the code to enhance your learning experience.
 
 3\. **Contributions**: If you have any corrections, suggestions, or additional content that you'd like to contribute, please submit a pull request. We welcome collaboration to make these notes even more informative and helpful.
 
